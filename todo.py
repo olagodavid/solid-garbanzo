@@ -12,3 +12,5 @@ def task_done(task_id):
     pass
 def update_task(task_id, summary, description):
     pass
+
+#define a helper:
